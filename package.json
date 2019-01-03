@@ -1,0 +1,25 @@
+{
+  "name": "media-server-node-end-to-end",
+  "version": "1.0.0",
+  "description": "media-server-node  end to end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notedit/media-server-node-end-to-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notedit/media-server-node-end-to-end/issues"
+  },
+  "homepage": "https://github.com/notedit/media-server-node-end-to-end#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0",
+    "medooze-media-server": "^0.55.3",
+    "semantic-sdp": "^3.16.0"
+  }
+}
